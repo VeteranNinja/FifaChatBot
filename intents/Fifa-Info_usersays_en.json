@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1a5ac8b9-2ca6-4f49-9ffc-121c4f6b0b4b",
+    "data": [
+      {
+        "text": "What is FIFA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "e021fb10-7425-435f-82af-eab872455ab3",
+    "data": [
+      {
+        "text": "I want to learn about the World Cup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "e0e36480-133f-40cf-92e8-14aa5f5edc83",
+    "data": [
+      {
+        "text": "I want to know something about the Fifa World Cup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "d9e79796-463c-408e-9aee-f714979886f2",
+    "data": [
+      {
+        "text": "Who were the top three teams in the Fifa world Cup ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "bf87cd38-ebf6-4eb1-9b3d-b129283fb524",
+    "data": [
+      {
+        "text": "Who were the trophy winners of the 2018 world cup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "94d0cbc6-1e25-4e72-9e4b-1839009d546d",
+    "data": [
+      {
+        "text": "Who are ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1531683270
+  },
+  {
+    "id": "aad1c59f-3d84-4433-819c-d6f64c44568b",
+    "data": [
+      {
+        "text": "Who are the World Cup 2018 Champions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "00e7e7bf-bcf2-49f7-8efa-29ae2285a544",
+    "data": [
+      {
+        "text": "when is the next tournament held?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "61d200a9-6a1d-4f12-b3b0-53336f5e6e11",
+    "data": [
+      {
+        "text": "Where is the next world cup held?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "944d0105-1de4-4cb0-9c76-41d3c6d7c097",
+    "data": [
+      {
+        "text": "Where is the 2018 World Cup held?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  },
+  {
+    "id": "4425753c-d9b5-4e36-863c-2dd269a44dad",
+    "data": [
+      {
+        "text": "What is the Fifa World Cup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683270
+  }
+]

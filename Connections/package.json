@@ -1,0 +1,28 @@
+{
+  "name": "ChatBot",
+  "description": "A Chatbot for the Fifa World Cup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veteranninja"
+  },
+  "keywords": [],
+  "author": "Najeeb Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veteranninja"
+  },
+  "homepage": "https://github.com/veteranninja",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {}
+}

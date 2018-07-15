@@ -1,0 +1,64 @@
+{
+  "id": "da2d39ad-b4c9-497d-9c91-22ae55bbd7ac",
+  "name": "Fifa-Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "69c084df-a845-4b23-ae2b-d4e5347725d5",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        },
+        {
+          "id": "c97b2391-044e-4256-92ed-7e2c8c928f40",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "The current 2018 World Cup is in Russia",
+            "The Fifa World Cup is the largest football tournament occuring ever 4 years. This involves many qualifying countries in the world, and is also the largest sporting tournament worldwide. The World Cup is hosted in various countries around the world.",
+            "The next World Cup is in 2022 in Qatar"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "The Fifa World Cup is the largest football tournament that is held every 4 years.",
+            "The Current 2018 World Cup is held in Moscow, Russia",
+            "The next tournament, in 2022, is held in Qatar",
+            "France are the 2018 Fifa World Cup Champions",
+            "In the 2018 FIfa World Cup, France got won the Gold trophy, Croatia got a Silver trophy, and Belgium won the Bronze trophy",
+            "the top three teams of 2018 World Cup were France, then Croatia at second, and then Belgium at third.",
+            "What would you like to know about the FIFA World Cup?",
+            "FIFA is a french company that hosts many of the major football tournaments."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531683270,
+  "fallbackIntent": false,
+  "events": []
+}

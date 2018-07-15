@@ -1,0 +1,36 @@
+[
+  {
+    "id": "38a5474a-df4c-45f1-86ef-453449ad706b",
+    "data": [
+      {
+        "text": "Who came ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " in the 2018 world cup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1531683363
+  },
+  {
+    "id": "78fb3a0e-f240-43a0-b4ac-6580073536f0",
+    "data": [
+      {
+        "text": "Who played in the 2018 World Cup finals?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531683363
+  }
+]
