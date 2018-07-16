@@ -39,7 +39,9 @@
   "isPrivate": true,
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
-  "supportedLanguages": [],
+  "supportedLanguages": [
+    "en-gb"
+  ],
   "onePlatformApiVersion": "v2",
   "analyzeQueryTextSentiment": false
 }

@@ -23,9 +23,43 @@
           "name": "number1",
           "value": "$number1",
           "isList": false
+        },
+        {
+          "id": "f8e7e9fa-d6e1-4f12-965a-6b0abb948023",
+          "required": false,
+          "dataType": "@Teams",
+          "name": "team",
+          "value": "$team",
+          "isList": false
         }
       ],
       "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en-gb",
+          "speech": [
+            "The current 2018 World Cup is in Russia",
+            "The Fifa World Cup is the largest football tournament occuring ever 4 years. This involves many qualifying countries in the world, and is also the largest sporting tournament worldwide. The World Cup is hosted in various countries around the world.",
+            "The next World Cup is in 2022 in Qatar"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "The Fifa World Cup is the largest football tournament that is held every 4 years.",
+            "The Current 2018 World Cup is held in Moscow, Russia",
+            "France are the 2018 Fifa World Cup Champions",
+            "France came first in the world cup",
+            "the top three teams of 2018 World Cup were France, then Croatia at second, and then Belgium at third.",
+            "what do you want to know about the world cup?",
+            "FIFA is a french company that hosts many of the major football tournaments.",
+            "France, Croatia and Belgium all won a trophy",
+            "In the 2018 FIfa World Cup, France got won the Gold trophy, Croatia got a Silver trophy, and Belgium won the Bronze trophy",
+            "Final Match: France Vs Croatia"
+          ]
+        },
         {
           "type": 0,
           "platform": "facebook",
@@ -42,12 +76,14 @@
           "speech": [
             "The Fifa World Cup is the largest football tournament that is held every 4 years.",
             "The Current 2018 World Cup is held in Moscow, Russia",
-            "The next tournament, in 2022, is held in Qatar",
             "France are the 2018 Fifa World Cup Champions",
-            "In the 2018 FIfa World Cup, France got won the Gold trophy, Croatia got a Silver trophy, and Belgium won the Bronze trophy",
+            "France came first in the world cup",
             "the top three teams of 2018 World Cup were France, then Croatia at second, and then Belgium at third.",
-            "What would you like to know about the FIFA World Cup?",
-            "FIFA is a french company that hosts many of the major football tournaments."
+            "what do you want to know about the world cup?",
+            "FIFA is a french company that hosts many of the major football tournaments.",
+            "France, Croatia and Belgium all won a trophy",
+            "In the 2018 FIfa World Cup, France got won the Gold trophy, Croatia got a Silver trophy, and Belgium won the Bronze trophy",
+            "Final Match: France Vs Croatia"
           ]
         }
       ],
@@ -58,7 +94,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1531683270,
+  "lastUpdate": 1531773634,
   "fallbackIntent": false,
   "events": []
 }

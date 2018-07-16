@@ -12,6 +12,16 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Hi! How are you doing?",
+            "Hello! How I can help you?",
+            "Good day! What can I do for you today?",
+            "Greetings! How can I assist?"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
           "speech": [
             "Hi! How are you doing?",

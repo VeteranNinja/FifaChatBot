@@ -1,0 +1,43 @@
+{
+  "id": "7b6d04fe-e93d-4869-826e-39faaf64c7ad",
+  "name": "web.search - context:web-search",
+  "auto": true,
+  "contexts": [
+    "web-search"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "web.search",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "388425d1-fe8e-46aa-861d-1492053e1941",
+          "dataType": "@sys.any",
+          "name": "q",
+          "value": "$q"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531773913,
+  "fallbackIntent": false,
+  "events": []
+}

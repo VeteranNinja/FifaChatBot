@@ -10,6 +10,7 @@
       "parameters": [
         {
           "id": "b291cb7e-940f-4459-8217-899d515fe778",
+          "required": false,
           "dataType": "@sys.ordinal",
           "name": "ordinal",
           "value": "$ordinal",
@@ -19,10 +20,20 @@
       "messages": [
         {
           "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "France played Croatia in the FIfa World Cup Final of 2018",
+            "Croatia came second in 2018 world cup",
+            "Final Match: France Vs Croatia"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
           "speech": [
             "France played Croatia in the FIfa World Cup Final of 2018",
-            "Croatia came second in 2018 world cup"
+            "Croatia came second in 2018 world cup",
+            "Final Match: France Vs Croatia"
           ]
         }
       ],
@@ -33,7 +44,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1531683363,
+  "lastUpdate": 1531773480,
   "fallbackIntent": false,
   "events": []
 }
